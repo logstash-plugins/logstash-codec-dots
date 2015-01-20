@@ -3,7 +3,6 @@ require "logstash/codecs/base"
 
 class LogStash::Codecs::Dots < LogStash::Codecs::Base
   config_name "dots"
-  milestone 1
 
   public
   def decode(data)
