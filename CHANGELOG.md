@@ -1,3 +1,9 @@
+## 3.0.4
+  - Docs: Bump patch level to pick up new plugin description
+  
+## 3.0.3
+  - Docs: Bump patch level for doc build
+  
 ## 3.0.2
   - Relax constraint on logstash-core-plugin-api to >= 1.60 <= 2.99
 
