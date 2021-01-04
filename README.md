@@ -1,6 +1,6 @@
 # Logstash Plugin
 
-[![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-codec-dots.svg)](https://travis-ci.org/logstash-plugins/logstash-codec-dots)
+[![Travis Build Status](https://travis-ci.com/logstash-plugins/logstash-codec-dots.svg)](https://travis-ci.com/logstash-plugins/logstash-codec-dots)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
